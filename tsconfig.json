@@ -7,7 +7,10 @@
     "declarationMap": true,
     "noEmit": false,
     "outDir": "dist",
-    "rootDir": "src"
+    "rootDir": "src",
+    "paths": {
+
+    }
   },
   "include": ["src"]
 }

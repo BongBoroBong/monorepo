@@ -7,6 +7,7 @@
     "@heuron/component-module": "*",
     "@heuron/vtk-module": "*",
     "@kitware/vtk.js": "^24.4.0",
+    "craco-alias": "^3.0.1",
     "craco-itk": "^1.0.5",
     "dotenv": "^16.0.0",
     "itk": "^14.1.1",
